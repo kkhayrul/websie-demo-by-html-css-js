@@ -1,0 +1,72 @@
+*{margin:0; padding: 0;}
+
+
+div#main-div {
+    
+    
+}
+
+div#div_one h3 {
+    font-family: arial;
+    font-weight: 200;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+div#div_one p {
+    font-family: arial;
+    color: #aeaeae;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+div#div_one h4 {
+    font-family: arial;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+div#div_one {
+    border-bottom: 1px solid #888;
+}
+
+div#sub-div_1 {
+    width: 100%;
+}
+
+div#sub-div_1 #add_button {
+    margin-top: 30px;
+    margin-bottom: 0px;
+    background-color: #269395;
+    color: white;
+    font-size: 10px;
+    padding: 6px 20px;
+    outline: none;
+    font-family: arial;
+}
+
+div#div_element {width: 500px;margin: 50px auto;border: 1px solid #ddd;box-shadow: 0px 5px 8px 1px #ddd;}
+
+div#section_div {width: 100%;border-bottom: 1px solid #64555536;}
+
+div#container {padding: 20px;}
+
+div#ul_section h3 {font-family: arial;font-weight: 300;margin-bottom: 10px;}
+
+ul.Ul_class li {list-style: none;padding: 5px 15px;border: 1px solid #ddd;font-size: 12px;font-family: arial;font-weight: 300;color: #666;}
+
+ul.Ul_class li:first-child {border-bottom: none;}
+
+ul.Ul_class li:nth-child(2) {border-bottom: none;}
+
+ul.Ul_class li:nth-child(3) {border-bottom: none;}
+
+ul.Ul_class li:nth-child(4) {border-bottom: none;}
+
+ul.Ul_class {margin-bottom: 15px;}
+
+div#ul_section span {background-color: black;color: white;font-size: 13px;font-family: arial;font-weight: 200;padding: 5px 25px;transition: 0.3s;}
+
+
+
+div#ul_section span:hover {background-color: white;outline: 1px solid black;color: black;}
